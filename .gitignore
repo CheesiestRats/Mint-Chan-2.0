@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 #Ignore env files
 *.env
+
+# Ignore the 'chrome-data' directory
+chrome-data/
